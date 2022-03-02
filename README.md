@@ -1,4 +1,4 @@
-# Semaphore demo CI/CD pipeline using Ruby on Rails
+# Semaphore demo CI/CD pipeline using Ruby on Rails.
 
 [![Build Status](https://semaphore-demos.semaphoreci.com/badges/semaphore-demo-ruby-rails/branches/master.svg)](https://semaphore-demos.semaphoreci.com/projects/semaphore-demo-ruby-rails)
 
